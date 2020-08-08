@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": " Installed antivirus workstation 051",
+      "attention": false,
+      "tech": "Monique Dampies",
+      "date": "2020-06-25T21:41:02.853Z"
+    },
+    {
+      "id": 2,
+      "message": "Antivirus needed at workstation 200",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-24T15:03:22.249Z"
+    },
+    {
+      "id": 3,
+      "message": "Workstation 265 harddrive needs replacement",
+      "attention": true,
+      "tech": "Cameron Luyt",
+      "date": "2020-07-05T17:57:16.422Z"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 265 harddrive replaced",
+      "attention": false,
+      "tech": "Cameron Luyt",
+      "date": "2020-07-05T17:57:29.223Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Cameron",
+      "lastName": "Luyt"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Monique",
+      "lastName": "Dampies",
+      "id": 4
+    }
+  ]
+}
